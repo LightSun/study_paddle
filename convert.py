@@ -1,4 +1,4 @@
-# 引用Paddlelite预测库
+# model: paddle to paddle-lite
 from paddlelite.lite import *
 
 #model_dir="D:/study/github/good/paddle/model/ch_ppocr_mobile_v2.0_det_slim_infer"
